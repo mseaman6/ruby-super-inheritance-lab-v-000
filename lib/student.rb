@@ -5,7 +5,7 @@ class Student
   end
 
   def raise_hand
-    do puts "Pick me!" end
+    puts "Pick me!"
   end
 
 end
